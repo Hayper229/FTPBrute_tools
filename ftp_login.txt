@@ -1,0 +1,10 @@
+ftp
+anonymous
+admin
+OP3N
+guest
+root
+sa
+web
+user
+

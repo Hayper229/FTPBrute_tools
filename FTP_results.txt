@@ -1,0 +1,7 @@
+ftp://ftp:ftp@89.46.226.40
+ftp://ftp:ftp@89.46.229.205
+ftp://ftp:ftp@89.46.229.153
+ftp://ftp:ftp@89.46.75.48
+ftp://ftp:ftp@89.46.229.168
+ftp://ftp:ftp@89.46.225.74
+
