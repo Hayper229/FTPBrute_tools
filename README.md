@@ -1,6 +1,4 @@
-
-
-
+[Main_information]
 
 
 
@@ -11,3 +9,27 @@
 5. python3 FTP_Grabber.py <- Start grabbing banners FTP servers 
 6. python3 FTP_Dump_Report.py  <- Generate FTP report results in FTP_results.html
 7. python3 FTPDumper.py <- This script for dumps files/directory from FTP servers
+
+
+
+
+
+
+
+
+
+
+
+[Description]
+
+# FTP Brute Tools – набор для лучшего тестирования FTP‑серверов
+
+## Содержание пакета
+- FTPDumepr – сканирование файлов/папок
+- FTP_Brute – брутфорс логинов/паролей.
+- FTP_Dump_Report – формирование отчётов.
+- FTP_Grabber – сбор банеров после успешного входа.
+- FTP_Format_Convertor – преобразование списков.
+- filter_ftp.sh – фильтрация целей.
+- ftp_login.txt и ftp_password.txt – мини‑словаря.
+- README.md – данное руководство.
